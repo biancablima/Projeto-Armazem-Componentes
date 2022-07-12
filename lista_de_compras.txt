@@ -1,0 +1,6 @@
+C,diodo,4
+I,cir000150,10
+N,MATSUCHITA,2
+C,cristal,105
+N,100V,10000
+C,conectores,1600
